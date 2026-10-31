@@ -1,0 +1,61 @@
+
+# ==============================
+# Unity Generated Files
+# ==============================
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Unity Asset Store Tools
+[Aa]ssets/AssetStoreTools*
+
+# Unity IDE Generated
+.vs/
+.gradle/
+
+# ==============================
+# VS Code
+# ==============================
+
+.vscode/
+!.vscode/extensions.json
+
+# ==============================
+# IDE Files
+# ==============================
+
+.idea/
+*.sln.iml
+
+# ==============================
+# Build Artifacts
+# ==============================
+
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+*.dll
+*.pdb
+
+# ==============================
+# OS Files
+# ==============================
+
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ==============================
+# Crash Reports
+# ==============================
+
+sysinfo.txt
